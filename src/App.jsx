@@ -3,6 +3,8 @@ import localRoutes from "./local_routes.json"
 import { FaFacebook, FaXTwitter, FaWhatsapp } from "react-icons/fa6"
 import { SiGooglemaps } from "react-icons/si"
 
+import { inject } from '@vercel/analytics'
+inject()
 
 // ─────────────────────────────────────────
 // COMMUNITY PAGE COMPONENT
