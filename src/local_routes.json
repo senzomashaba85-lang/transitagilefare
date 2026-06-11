@@ -1,0 +1,6608 @@
+[
+  {
+    "from_location": "NOXOLO",
+    "to_location": "TOWN",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NOXOLO",
+    "to_location": "KORSTEN",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NJOLI / DAKU / VEEPLAAS",
+    "to_location": "MOTHERWELL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NJOLI / DAKU / VEEPLAAS",
+    "to_location": "WELLS / KAMVA",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BOOYSEN PARK",
+    "to_location": "TOWN",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BOOYSEN PARK",
+    "to_location": "KORSTEN",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MARIKANA",
+    "to_location": "TOWN",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MARIKANA",
+    "to_location": "KORSTEN",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KHAYAMNANDI",
+    "to_location": "TOWN",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KHAYAMNANDI",
+    "to_location": "KORSTEN",
+    "price": "32.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NOXOLO",
+    "to_location": "KABEKA",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NOXOLO",
+    "to_location": "GREENACRES",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAKU / NJOLI",
+    "to_location": "TOWN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAKU / NJOLI",
+    "to_location": "KORSTEN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAKU / NEW BRIGHTON",
+    "to_location": "SUMMERSTRAND",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAKU / NEW BRIGHTON",
+    "to_location": "WALMER",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NJOLI",
+    "to_location": "CLEARY PARK",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NJOLI",
+    "to_location": "BETHELSDORP",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NEW BRIGHTON",
+    "to_location": "TOWN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NEW BRIGHTON",
+    "to_location": "KORSTEN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SEYISI",
+    "to_location": "TOWN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SEYISI",
+    "to_location": "KORSTEN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VEEPLAAS",
+    "to_location": "TOWN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VEEPLAAS",
+    "to_location": "KORSTEN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SUMMERSTRAND",
+    "to_location": "TOWN",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TOWN",
+    "to_location": "SUMMERSTRAND",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAGXAKI / DWESI",
+    "to_location": "TOWN",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAGXAKI / DWESI",
+    "to_location": "KORSTEN",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MOTHERWELL",
+    "to_location": "TOWN",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MOTHERWELL",
+    "to_location": "KORSTEN",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MOTHERWELL",
+    "to_location": "GREENACRES",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MOTHERWELL",
+    "to_location": "SUMMERSTRAND",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MOTHERWELL",
+    "to_location": "WALMER",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MOTHERWELL",
+    "to_location": "BAYWEST",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MOTHERWELL",
+    "to_location": "KABECA",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "DARNALL",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "LINDELANI",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "SHAKAVILLE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "SHAKAVILLE KWA D",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "GLEDHOW",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "GROUTVILLE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "TETE",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "BALKOMU (TETE)",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "SHAKASKRAAL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "BALLITO",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "NTSHAWININI",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "NTSHAWININI NGAPHAKATHI",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "SHOMBELA",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "MNYUNDWINI",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "MALENDE",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DARNALL",
+    "to_location": "ZINKWAZI",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE",
+    "to_location": "LOCAL",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE",
+    "to_location": "GA-RANKUWA",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE",
+    "to_location": "ROSSLYN",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE/ WONDERPARK",
+    "to_location": "TOWN",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE/ PTA NORTH",
+    "to_location": "TOWN",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE",
+    "to_location": "WONDERBOOM JUNCTION",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE",
+    "to_location": "EASTLYNNE",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROSSLYN",
+    "to_location": "WONDERPARK",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TT / EXT 1 TO 19",
+    "to_location": "TOWN",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "XX / VV",
+    "to_location": "TOWN",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TOWN",
+    "to_location": "LOCAL",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "F4",
+    "to_location": "TOWN",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "F4",
+    "to_location": "SOSHANGUVE (RIETGAT TAXI RANK)",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KOPANONG - EXT 10-19",
+    "to_location": "BLOCK TT",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE",
+    "to_location": "GA-RANKUWA VIA MORULA",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE",
+    "to_location": "MABOPANE",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE",
+    "to_location": "HEBRON",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE",
+    "to_location": "MENLYN",
+    "price": "45.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE",
+    "to_location": "MAMELODI",
+    "price": "43.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE",
+    "to_location": "CENTURION",
+    "price": "45.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WONDERPARK",
+    "to_location": "TOWN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NKWE ESTATE - ROSSLYN GARDENS",
+    "to_location": "TOWN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ORCHARDS",
+    "to_location": "TOWN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROSSLYN",
+    "to_location": "ATTERIDGEVILLE",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WONDERPARK",
+    "to_location": "ATTERIDGEVILLE",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WONDERPARK/ROSSLYN",
+    "to_location": "HAMMANSKRAAL",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WALLMANSTHAL",
+    "to_location": "TOWN",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOSHANGUVE",
+    "to_location": "WALLMANSTHAL",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WALLMANSTHAL",
+    "to_location": "LOCAL",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BUNDU INN",
+    "to_location": "WONDERPARK",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BUNDU INN",
+    "to_location": "ROSSLYN",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BUNDU INN",
+    "to_location": "PRETORIA NORTH",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BUNDU INN",
+    "to_location": "TOWN",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROSSLYN",
+    "to_location": "TOWN",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA NORTH",
+    "to_location": "TOWN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PARK-TOWN",
+    "to_location": "TOWN",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ONDERSTEPOORT",
+    "to_location": "TOWN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WALLMANSTHAL",
+    "to_location": "MENLYN",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WALLMANSTHAL",
+    "to_location": "EASTLYNNE",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLIEVENHOUTBOSCH",
+    "to_location": "MARABASTAD / ANDRIES",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA ANDRIES",
+    "to_location": "SUNDERLANDRIDGE / RASLOUW / STONERIDGE",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MARABASTAD",
+    "to_location": "RANDBURG",
+    "price": "50.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RANDBURG",
+    "to_location": "MABOPANE",
+    "price": "65.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLIEVENHOUTBOSCH",
+    "to_location": "SPRUIT / SUNDERLAND RIDGE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLIEVENHOUTBOSCH",
+    "to_location": "COPPERLEAF",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLIEVENHOUTBOSCH",
+    "to_location": "IVORY PARK",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA ANDRIES",
+    "to_location": "FORESTHILL / R55 MALL",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SPRUIT MOOIPLAAS",
+    "to_location": "MARABASTAD",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SPRUIT MOOIPLAAS",
+    "to_location": "COPPERLEAF",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SPRUIT MOOIPLAAS",
+    "to_location": "RASLOUW / HOSPITAL",
+    "price": "10.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SPRUIT MOOIPLAAS",
+    "to_location": "SUNDERLAND RIDGE",
+    "price": "10.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NTSWANE VILLAGE",
+    "to_location": "MARABASTAD",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SPRUIT MOOIPLAAS",
+    "to_location": "MIDSTREAM",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "VERINA",
+    "price": "140.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "JHB",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "ALBERTON",
+    "price": "33.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "BARA",
+    "price": "33.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "VOSLOORUS",
+    "price": "32.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "EASTGATE",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "SERENGETI",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "VEREENIGING",
+    "price": "90.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "WITBANK",
+    "price": "160.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "BRONKHORSPRUIT",
+    "price": "110.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "SOKHULUMA",
+    "price": "130.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "ELANDSFONTEIN",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "MEADOWDALE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "SEBENZA",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "EDENVALE",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "ISANDO",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "VERINA",
+    "price": "170.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "BRONKHORSPRUIT",
+    "price": "120.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SERENGETI",
+    "to_location": "TEMBISA",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SERENGETI",
+    "to_location": "ALEX",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SWAZI INN",
+    "to_location": "JHB",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OAKMORE",
+    "to_location": "SERENGETI",
+    "price": "11.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PHOMOLONG",
+    "to_location": "JHB",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAYIBUYE",
+    "to_location": "JHB",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ELANDSFONTEIN",
+    "to_location": "BARA",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "BLOEMFONTEIN",
+    "price": "390.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "KROONSTAD",
+    "price": "320.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "WELKOM",
+    "price": "340.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "POLOKWANE",
+    "price": "340.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (ATTERIDGEVILLE)",
+    "to_location": "POLOKWANE",
+    "price": "340.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (MABOPANE STATION)",
+    "to_location": "POLOKWANE",
+    "price": "280.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "TZANEEN",
+    "price": "400.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "APEL",
+    "price": "320.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "LEBOWAKGOMO",
+    "price": "340.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "LOUIS TRICHARDT",
+    "price": "400.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "THOHOYANDOU",
+    "price": "400.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "BUSHBUCKRIDGE",
+    "price": "400.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "ARCONHOEK",
+    "price": "390.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "VRYBURG",
+    "price": "390.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "KURUMAN",
+    "price": "470.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "MAFIKENG",
+    "price": "340.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "TAUNG",
+    "price": "410.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "KIMBERLY",
+    "price": "450.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "WOLMARANSSTAD",
+    "price": "330.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "BLOEMHOF",
+    "price": "370.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "CHRISTIANA",
+    "price": "390.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "WARRINGTON",
+    "price": "440.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "BOCHUM",
+    "price": "350.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "NELSPRUIT",
+    "price": "350.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "MALELANE",
+    "price": "390.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "ZEBEDIELA",
+    "price": "340.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "GIYANI",
+    "price": "400.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "FICKSBURG",
+    "price": "410.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "MASERU/ LADYBRAND",
+    "price": "410.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "QWAQWA",
+    "price": "380.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "MUSSINA",
+    "price": "480.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "KLERKSDORP",
+    "price": "300.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "KRUGERSDORP",
+    "price": "115.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "RANDFONTEIN",
+    "price": "115.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "RUSTENBURG",
+    "price": "215.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "WITBANK",
+    "price": "190.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "PHALABORWA",
+    "price": "400.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA (BOSMAN STATION)",
+    "to_location": "THULAMAHASHE",
+    "price": "390.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "VOSLOORUS",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "RONDEBUILT / LEONDALE / BUHLE PARK",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "SPRUITVIEW / PHUMULA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "SALFIN / CARNIVAL GREEN",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "ROODEKOP EXT 31",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "VILLALISA / WINDMILL PARK / DAWN PARK",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "EAST RAND MALL / BOKSBURG",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "GRACELAND",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LEONDALE RONDEBUILT, SPRUITVIEW",
+    "to_location": "EASTGATE",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LEONDALE, SPRUITVIEW",
+    "to_location": "BARA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BUHLE PARK, RONDEBUILT",
+    "to_location": "BARA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "BARA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "GREENSTONE MALL",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "THE GLEN",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "EASTGATE",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "SANDTON",
+    "price": "33.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "MIDRAND",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "STEEDALE",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "CENTURION",
+    "price": "45.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "PRETORIA",
+    "price": "65.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLIEVEN",
+    "to_location": "JHB",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KYALAMI",
+    "to_location": "JHB",
+    "price": "33.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLIEVEN",
+    "to_location": "ROSEBANK",
+    "price": "33.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STOP 6",
+    "to_location": "JHB",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STOP 7",
+    "to_location": "JHB",
+    "price": "33.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA",
+    "to_location": "BENONI",
+    "price": "65.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA",
+    "to_location": "DAVEYTON",
+    "price": "65.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA",
+    "to_location": "GERMISTON",
+    "price": "65.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA",
+    "to_location": "SPRINGS",
+    "price": "80.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA",
+    "to_location": "DUDUZA RANK",
+    "price": "80.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA",
+    "to_location": "VEREENIGING",
+    "price": "120.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA",
+    "to_location": "VOSLOORUS",
+    "price": "70.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PRETORIA",
+    "to_location": "RANDFONTEIN/KRUGERSDORP",
+    "price": "115.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DIEPSLOOT",
+    "to_location": "RANDBURG",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DIEPSLOOT",
+    "to_location": "FOURWAYS",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DIEPSLOOT",
+    "to_location": "LONEHILL",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RANDBURG",
+    "to_location": "FOURWAYS",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DIEPSLOOT",
+    "to_location": "MIDSTREAM",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DIEPSLOOT",
+    "to_location": "CENTURION",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RIVERSIDE",
+    "to_location": "RANDBURG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RIVERSIDE",
+    "to_location": "FOURWAYS",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RIVERSIDE",
+    "to_location": "LONEHILL",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RIVERSIDE",
+    "to_location": "SANDTON",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RIVERSIDE",
+    "to_location": "MORNINGSIDE",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RIVERSIDE",
+    "to_location": "KYALAMI",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RIVERSIDE",
+    "to_location": "SUNNINGHILL",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RIVERSIDE",
+    "to_location": "PAULSHOF",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "SANDTON",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "PARKMORE",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "KRAMERVILLE",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "RIVERCLUB",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "SUNNINGHILL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "GALLOW MANOR",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "TANNA",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "EDENVALE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "JEWISH / SANDRINGHAM",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "LYNDHURST",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "GREENSTONE",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "LONGMEADOW",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "MODDERFONTEIN",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "LINBRO",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EDEN PARK",
+    "to_location": "JOHANNESBURG",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SKY CITY",
+    "to_location": "JOHANNESBURG",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MEYERSIG",
+    "to_location": "JOHANNESBURG",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JOHANNESBURG",
+    "to_location": "HEINEKEN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JOHANNESBURG",
+    "to_location": "CHICKEN DUST",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JOHANNESBURG",
+    "to_location": "MALL OF THE SOUTH",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MALL OF THE SOUTH",
+    "to_location": "JOHANNESBURG",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VIRGIN ACTIVE",
+    "to_location": "JOHANNESBURG",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MALL OF THE SOUTH",
+    "to_location": "EDEN PARK",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MALL OF THE SOUTH",
+    "to_location": "CHICKEN DUST",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MALL OF THE SOUTH",
+    "to_location": "SKY CITY",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "GREENFIELD",
+    "to_location": "BASSONIA",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "GREENFIELD",
+    "to_location": "GLENVISTA",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EDEN PARK",
+    "to_location": "BOOYSENS",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EDEN PARK",
+    "to_location": "ALBERTON",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HILLBROW",
+    "to_location": "ILLOVO (ROSEBANK)",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB HOSPITAL",
+    "to_location": "JHB - CBD",
+    "price": "10.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BRAAMFONTEIN",
+    "to_location": "EASTGATE",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BRAAMFONTEIN",
+    "to_location": "YEOVILLE",
+    "price": "14.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "YEOVILLE",
+    "to_location": "JHB - CBD",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ELMA PARK",
+    "to_location": "JHB - CBD",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANDERWOOD",
+    "to_location": "JHB - CBD",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "YEOVILLE",
+    "to_location": "JEPPE",
+    "price": "12.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "YEOVILLE",
+    "to_location": "MARATHON (MALVERN)",
+    "price": "13.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "YEOVILLE",
+    "to_location": "PRICING FOR SCHOLARS",
+    "price": "12.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KILLARNEY",
+    "to_location": "JHB - CBD",
+    "price": "14.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HOLLARD",
+    "to_location": "JHB - CBD",
+    "price": "14.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MARKET",
+    "to_location": "ROSEBANK",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BOK",
+    "to_location": "EASTGTE",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "YEOVILLE",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PLEIN STREET",
+    "to_location": "ILLOVO",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE TAXI RANK",
+    "to_location": "ILLOVO",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "YEOVILLE",
+    "to_location": "CRESTA",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HILLBROW",
+    "to_location": "PARKHURST",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MTN BUTCHERY",
+    "to_location": "BREE RANK",
+    "price": "10.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HILLBROW",
+    "to_location": "BREE",
+    "price": "10.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PLEIN STREET",
+    "to_location": "YEOVILLE",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "RIVONIA",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "RANDBURG",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "FOURWAYS",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "BRYANSTON",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "BRIDGETOWN",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BRIDGETOWN",
+    "to_location": "BEYERS",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BRIDGETOWN",
+    "to_location": "NORTHGATE",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "OLIVEDALE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "DECO PARK",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "SUNNINGHILL",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "KYASANDS",
+    "price": "11.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "WOODMEAD",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FOURWAYS",
+    "to_location": "CHARTWELL",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RANDBURG",
+    "to_location": "FOURWAYS",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "NORTHGATE",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "CHARTWELL",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "DAINFERN",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COSMO CITY",
+    "to_location": "LONEHILL",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAALFONTEIN & EXT. 45",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SWAZI INN",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KANANA 4/5 & MAYIBUYE",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KLIPFONTEIN",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WINNIE MANDELA & TSWELOPELE",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PHUMULANI MALL",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "MENLYN",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "MENLYN",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAALFONTEIN & EXT. 45",
+    "to_location": "MENLYN",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SWAZI INN",
+    "to_location": "MENLYN",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "CENTURION MALL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "CENTURION MALL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAALFONTEIN & EXT. 45",
+    "to_location": "CENTURION MALL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SWAZI INN",
+    "to_location": "CENTURION MALL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KANANA 4/5 & MAYIBUYE",
+    "to_location": "CENTURION MALL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "SHOPRITE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "SHOPRITE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAALFONTEIN & EXT. 45",
+    "to_location": "SHOPRITE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SWAZI INN",
+    "to_location": "SHOPRITE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KANANA 4/5 & MAYIBUYE",
+    "to_location": "SHOPRITE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WINNIE MANDELA & TSWELOPELE",
+    "to_location": "SHOPRITE & MIDSTREAM",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "CO-OPERATE PARK",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WINNIE MANDELA",
+    "to_location": "CENTURION MALL LAKE",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PHUMULANI MALL",
+    "to_location": "ELARDUS PARK",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PHUMULANI MALL",
+    "to_location": "IRENE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ALEX",
+    "to_location": "GALLO-MANOR",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ALEX",
+    "to_location": "WOODMEAD",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ALEX",
+    "to_location": "BUCCLEUCH",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ALEX",
+    "to_location": "SUNNINGHILL",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSUTSUMANI",
+    "to_location": "GALLO-MANOR",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSUTSUMANI",
+    "to_location": "SUNNINGHILL",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSUTSUMANI",
+    "to_location": "WOODMEAD",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSUTSUMANI",
+    "to_location": "BUCCLEUCH",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEBRON",
+    "to_location": "TOWN",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEBRON",
+    "to_location": "ROSSLYN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEBRON",
+    "to_location": "WONDERPARK",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEBRON",
+    "to_location": "PTA NORTH",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KGABALATSANE",
+    "to_location": "PRETORIA",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABOKALA",
+    "to_location": "PRETORIA",
+    "price": "42.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OSKRAL",
+    "to_location": "PRETORIA",
+    "price": "43.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IPOPENG",
+    "to_location": "PRETORIA",
+    "price": "48.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ITIRELENG",
+    "to_location": "PRETORIA",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAGISANONG",
+    "to_location": "PRETORIA",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEBRON",
+    "to_location": "LOCAL",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEBRON",
+    "to_location": "KGABALATSANE/ITIRELENG/KAGISANONG",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEBRON",
+    "to_location": "RABOKALA",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEBRON",
+    "to_location": "OSKRAAL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEBRON",
+    "to_location": "NEWTOWN",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEBRON",
+    "to_location": "MALETE/IPOPENG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEBRON",
+    "to_location": "LETLHABILE",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABOKALA",
+    "to_location": "LETLHABILE",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABOKALA",
+    "to_location": "IPOPENG",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KGABALATSANE",
+    "to_location": "RABOKALA",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KGABALATSANE",
+    "to_location": "LETLHABILE",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SCHOLAR",
+    "to_location": "MONDAY TO FRIDAY ONLY",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RATANDA",
+    "to_location": "HEIDELBERG CBD/MALL",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 23",
+    "to_location": "HEIDELBERG CBD/MALL",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SHALIMAR RIDGE",
+    "to_location": "HEIDELBERG CBD/MALL",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "SEDAVEN",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "SCHIKFONTEIN",
+    "price": "45.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "BERSIG",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "JAMESON PARK",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "NIGEL",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "DUDUZA",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "TSAKANE",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "VOSLOORUS",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "BALFOUR",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "VEREENIGING",
+    "price": "55.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "STANDERTON",
+    "price": "120.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "GERMISTON",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "JOHANNESBURG",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HEIDELBERG",
+    "to_location": "YOUR OWN DESTINATION",
+    "price": "200.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TAXI HIRE FOR FUNERAL",
+    "to_location": "EKUTHULENI",
+    "price": "350.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TAXI HIRE FOR FUNERAL",
+    "to_location": "BERSIG",
+    "price": "400.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "STANGER BEACH",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "PRINCESS GRANT",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "NTWASHINI",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "THEMBENI",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "ETSHENI",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "ZINKWAZI",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "DUBE VILLAGE",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "CHARLOTTEDALE",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "NONOTI",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "NKOBONGO",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "MEMORIA",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "STANGER",
+    "to_location": "SHAKASHEAD",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DARNALL",
+    "to_location": "PRINCESS GRANT",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MALENDE",
+    "to_location": "BALLITO",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MNYUNDWINI",
+    "to_location": "BALLITO",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "THEMBENI",
+    "to_location": "BALLITO",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAFAVUKE",
+    "to_location": "BALLITO",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CHARLOTTEDALE",
+    "to_location": "BALLITO",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DUBE VILLAGE",
+    "to_location": "BALLITO",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "THEMBENI",
+    "to_location": "TINLEY MANOR",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SHAKAMALL",
+    "to_location": "RANK",
+    "price": "13.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KWADUKUZA MALL",
+    "to_location": "RANK",
+    "price": "13.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ENNERDALE",
+    "to_location": "JHB/SOUTHGATE",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SOUTHGATE",
+    "to_location": "ENNERDALE",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ENNERDALE",
+    "to_location": "VEREENIGING",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ENNERDALE",
+    "to_location": "CROUSES/CORONATION",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ENNERDALE",
+    "to_location": "BARA",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ENNERDALE",
+    "to_location": "ELDOS",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ENNERDALE",
+    "to_location": "ALBERTON",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ENNERDALE",
+    "to_location": "CORONATION",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ENNERDALE",
+    "to_location": "EDENVALE",
+    "price": "55.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WINNIE MANDELA",
+    "to_location": "RANDBURG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "RANDBURG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "RANDBURG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KLIPFONTEIN",
+    "to_location": "RANDBURG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAALFONTEIN & EXT. 45",
+    "to_location": "RANDBURG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAYIBUYE",
+    "to_location": "RANDBURG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MIDRAND",
+    "to_location": "RANDBURG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WINNIE MANDELA",
+    "to_location": "FOURWAYS",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "FOURWAYS",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "FOURWAYS",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KLIPFONTEIN",
+    "to_location": "FOURWAYS",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAALFONTEIN & EXT. 45",
+    "to_location": "FOURWAYS",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAYIBUYE",
+    "to_location": "FOURWAYS",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MIDRAND",
+    "to_location": "FOURWAYS",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "HONEYDEW",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "HONEYDEW",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MIDRAND",
+    "to_location": "HONEYDEW",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "COSMO CITY",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "COSMO CITY",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MIDRAND",
+    "to_location": "COSMO CITY",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "DIEPSLOOT",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK EXT. 2/4/5 & KAALFONTEIN",
+    "to_location": "WATERFALL",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK EXT. 2/4/5 & KAALFONTEIN",
+    "to_location": "KYALAMI",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK EXT. 2/4/5 & KAALFONTEIN",
+    "to_location": "MIDRAND",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK EXT. 2/4/5 & KAALFONTEIN",
+    "to_location": "VORNAVELLEY",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK EXT. 2/4/5 & KAALFONTEIN",
+    "to_location": "NOORDWYK",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK EXT. 2/4/5 & KAALFONTEIN",
+    "to_location": "VODAWORLD",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WINNIE MANDELA",
+    "to_location": "WATERFALL",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WINNIE MANDELA",
+    "to_location": "KYALAMI",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WINNIE MANDELA",
+    "to_location": "MIDRAND",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSWELOPELE",
+    "to_location": "MIDRAND",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "MIDRAND",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "KYALAMI",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "NOORDWYK",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "VORNA VALLEY",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "VODAWORLD",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "WATERFALL",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "SUNDERLAND RIDGE",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAYIBUYE",
+    "to_location": "MIDRAND",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SWAZI-INN",
+    "to_location": "MIDRAND",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EMATSHENI",
+    "to_location": "MIDRAND",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK",
+    "to_location": "FOREST HILL",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK",
+    "to_location": "OLIEVEN",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2/4/5",
+    "to_location": "ATTRIDGEVILLE",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FRANS",
+    "to_location": "SEAVIEW",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FRANS",
+    "to_location": "BEACHVIEW",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CENTRE",
+    "to_location": "SEAVIEW",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CENTRE",
+    "to_location": "COLLEN GLEN",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SEAVIEW",
+    "to_location": "FRANS",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LINTON/ROWALLAN PARK",
+    "to_location": "FRANS",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LINTON/ROWALLAN PARK",
+    "to_location": "ST.ALBANS",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "THORNHILL",
+    "to_location": "GREENBUSHES/ROWALLAN PARK/ LINTON GRANGE",
+    "price": "38.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WOODRIDGE",
+    "to_location": "FITCHERS CORNER",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "THORNHILL",
+    "to_location": "FISHER CORNER",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "THORNHILL",
+    "to_location": "ST.ALBANS",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FRANS",
+    "to_location": "SHERWOOD/ LORRAINE",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FRANS",
+    "to_location": "TOWN",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROWALLAN PARK",
+    "to_location": "LINTON GRANGE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SUNDRIDGE",
+    "to_location": "CIRCULAR DRIVE/LORRAINE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "COLLEN GLEN",
+    "to_location": "FRANS/ GREENBUSHES",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SHERWOOD",
+    "to_location": "MAKRO",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KORSTEN",
+    "to_location": "FAIRVIEW",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LINTON GRANGE/LORRAINE",
+    "to_location": "LOCATION",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FRANS",
+    "to_location": "BAYWEST",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KORSTEN",
+    "to_location": "BAYWEST",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FRANS",
+    "to_location": "MOUNT PLEASANT",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LORRAINE",
+    "to_location": "BOOYSEN PARK",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LINTON",
+    "to_location": "DWESI SLOVO",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LORRAINE/LINTON",
+    "to_location": "MOTHERWELL",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LINTON/ LORRAINE",
+    "to_location": "UITENHAGE",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LINTON",
+    "to_location": "LOCATION",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LINTON",
+    "to_location": "ZINYOKA",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "EAST LONDON",
+    "price": "300.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "UMTATA",
+    "price": "400.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "IDUTYWA",
+    "price": "380.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "BUTTERWORTH",
+    "price": "380.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "KING",
+    "price": "270.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "PEDDIE",
+    "price": "270.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "PORT ALFRED",
+    "price": "240.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "ALEXANDRIA",
+    "price": "210.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "KENTON ON SEA",
+    "price": "240.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "GRAHAMSTOWN",
+    "price": "180.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "FORT BEAUFORT",
+    "price": "270.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "ALICE",
+    "price": "270.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "QUEENSTOWN",
+    "price": "380.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "GEORGE",
+    "price": "370.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "KNYSNA",
+    "price": "320.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "PLETT",
+    "price": "310.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "SOMERSET",
+    "price": "230.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "MOSSEL BAY",
+    "price": "420.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "ADELAIDE",
+    "price": "250.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "BEDFORD",
+    "price": "250.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "COOKHOUSE",
+    "price": "230.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "CAPE TOWN",
+    "price": "900.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PORT ELIZABETH",
+    "to_location": "JOHANNESBURG",
+    "price": "900.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "VOSLOORUS",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "RONDEBUILT / LEONDALE / BUHLE PARK",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "SPRUITVIEW / PHUMULA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "SALFIN/ CARNIVAL GREEN",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "ROODEKOP EXT 31",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "VILLALISA / WINDMILL PARK / DAWN PARK",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "EAST RAND MALL /BOKSBURG",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "GRACELAND",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LEONDALE RONDEBUILT, SPRUITVIEW",
+    "to_location": "EASTGATE",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LEONDALE, SPRUITVIEW",
+    "to_location": "BARA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BUHLE PARK, RONDEBUILT",
+    "to_location": "BARA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "BARA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "GREENSTONE MALL",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "THE GLEN",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "EASTGATE",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "SANDTON",
+    "price": "33.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "MIDRAND",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "STEEDALE",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "CENTURION",
+    "price": "45.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VOSLOORUS",
+    "to_location": "PRETORIA",
+    "price": "65.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "FOCHVILLE",
+    "price": "56.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "ZUURBEKOM",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "CARLTONVILLE",
+    "price": "46.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "WATERWORKS",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NALEDI",
+    "to_location": "TRADE ROUTE MALL",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZOLA",
+    "to_location": "TRADE ROUTE MALL",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NALEDI EXT 2",
+    "to_location": "TRADE ROUTE MALL",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CROSSROAD",
+    "to_location": "ORANGE FARM",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "GREENVILLAGE",
+    "to_location": "ORANGE FARM",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAYIBUYE VIA PIMVILLE",
+    "to_location": "ORANGE FARM",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NALEDI STATION",
+    "to_location": "PROTEA GLEN",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NALEDI STATION",
+    "to_location": "GLEN RIDGE",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NALEDI STATION",
+    "to_location": "GREENVILLAGE",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NALEDI STATION",
+    "to_location": "PROTEA NORTH",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MERAFE STATION",
+    "to_location": "ESSO GARAGE",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KLIPTOWN STATION",
+    "to_location": "DLALISA",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KLIPTOWN",
+    "to_location": "MERAFE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KLIPTOWN",
+    "to_location": "ZOLA OFFICE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RANTOL GARAGE",
+    "to_location": "NALEDI",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RANTOL GARAGE",
+    "to_location": "ZOLA OFFICE",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JABULANE MALL",
+    "to_location": "NALEDI",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JABULANE MALL",
+    "to_location": "PROTEA GLEN",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JABULANE MALL",
+    "to_location": "GLEN RIDGE",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MERAFE",
+    "to_location": "CROSSROAD",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FARANANI",
+    "to_location": "DUBE/PHEFENI",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SENAONE",
+    "to_location": "NHLANZANE STATION",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WATERWORKS",
+    "to_location": "LENZ",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KLIPTOWN",
+    "to_location": "NALEDI",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAPONYA",
+    "to_location": "PENNYVILLE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ORLANDO",
+    "to_location": "MAPONYA",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MEADOWLANDS",
+    "to_location": "MAPONYA",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NEW CANADA",
+    "to_location": "MAPONYA",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LUFHERENG",
+    "to_location": "PROTEA GARDENS",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "GAZANKULU",
+    "to_location": "ESSO CHIAWELO",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PROTEA GARDENS",
+    "to_location": "ZENEX",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WATERWORKS",
+    "to_location": "ZOLA",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NALEDI",
+    "to_location": "LENZ",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZUURBEKOM",
+    "to_location": "JMALL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZUURBEKOM",
+    "to_location": "GLEN MALL",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WESGATE",
+    "to_location": "SHELL,MALL,15,17",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NIRVANA",
+    "to_location": "LENZ",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LUFHERENG",
+    "to_location": "JHB",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "PIMVILLE",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "DLAMINI",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "GREENVILLAGE/LUFHERENG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "MERAFE",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "CHIAWELO",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "NALEDI",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "PROTEA NORTH / SOUTH",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "PROTEA GLEN",
+    "price": "32.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "GLEN RIDGE",
+    "price": "32.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "PROTEA GLEN EXT 22 - 35",
+    "price": "32.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JHB",
+    "to_location": "ZUURBEKOM",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PIMVILLE",
+    "to_location": "HIGHGATE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MERAFE",
+    "to_location": "HIGHGATE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NALEDI",
+    "to_location": "HIGHGATE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CHIAWELO",
+    "to_location": "HIGHGATE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PROTEA GLEN",
+    "to_location": "HIGHGATE",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PROTEA GARDENS",
+    "to_location": "CROESUS",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MERAFE",
+    "to_location": "CROESUS",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAPIMPANE",
+    "to_location": "JHB",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "KLERKSDORP",
+    "price": "135.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "POTCHEFSTROOM",
+    "price": "115.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "WOLMARANSTAD",
+    "price": "215.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "PIMVILLE",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "DLAMINI",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "MERAFE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "MOLAPO",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "NALEDI",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "GREENVILLAGE",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "CHIAWELO",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "PROTEA NORTH/SOUTH",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "PROTEA GLEN EXT 1,2,3,4,5,6,7,8,9,10",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "GLEN RIDGE",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KLIPTOWN",
+    "to_location": "LAHLAMLENZE",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAPONYA",
+    "to_location": "MERAFE",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAPONYA",
+    "to_location": "MOLAPO",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAPONYA",
+    "to_location": "NALEDI",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAPONYA",
+    "to_location": "ZOLA",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KLIPTOWN",
+    "to_location": "GREENVILLAGE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAPONYA",
+    "to_location": "PIMVILLE VIA DLAMINI",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAPONYA",
+    "to_location": "CHIAWELO",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAPONYA",
+    "to_location": "PROTEA NORTH/SOUTH",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAPONYA",
+    "to_location": "GLEN",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAPONYA",
+    "to_location": "GLEN RIDGE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "LENZ",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZOLA",
+    "to_location": "LENZ",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KLIPTOWN",
+    "to_location": "LENZ",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "NANCEFIELD",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RANTOL",
+    "to_location": "JABULANE MALL",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JABULANE MALL",
+    "to_location": "PROTEA GLEN 29",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NALEDI EXT2",
+    "to_location": "LENZ",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PROTEA GARDENS",
+    "to_location": "BARA",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PROTEA GARDENS",
+    "to_location": "REGINAH MONDI",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PROTEA GARDENS",
+    "to_location": "PROTEA GLEN EXT",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PROTEA GARDENS",
+    "to_location": "GLEN RIDGE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PROTEA GARDENS",
+    "to_location": "ZOLA OFFICE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PROTEA GARDENS",
+    "to_location": "MERAFE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LENZ",
+    "to_location": "ZUURBEKOM",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "WESTONAREA/BEKKESDALE",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LENZ",
+    "to_location": "FOCHVILLE",
+    "price": "56.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LENZ",
+    "to_location": "CARLTONVILLE",
+    "price": "51.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LENZ",
+    "to_location": "RANDFONTEIN",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "O/FARM EXT. 2 RANK",
+    "to_location": "JOHANNESBURG/THOKOZA",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "O/FARM EXT. 2 RANK",
+    "to_location": "RANDBURG",
+    "price": "37.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "O/FARM EXT. 2 RANK",
+    "to_location": "BRACKENHURST",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "O/FARM EXT. 2 RANK",
+    "to_location": "ECHASIA/JACKSON",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "O/FARM EXT. 2 RANK",
+    "to_location": "BARAGWANATH/SOUTHGATE/KLIPTOWN/FIRE STATION",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "O/FARM EXT. 2 RANK",
+    "to_location": "SOWETO (DOBSONVILLE)",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "O/FARM EXT. 2 RANK",
+    "to_location": "SKY CITY",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "O/FARM LOCAL",
+    "to_location": "ALL EXTENSIONS",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EYETHU MALL",
+    "to_location": "MAJAZANA/FINETOWN/THULAMTWANA",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EYETHU MALL",
+    "to_location": "SAVANNA CITY",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DRIEZIEK",
+    "to_location": "ALBERTON",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DRIEZIEK TAXI RANK",
+    "to_location": "BARAGWANATH/FIRE STATION",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DRIEZIEK CALTEX GARAGE",
+    "to_location": "EVATON",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LAKESIDE NANDOS/ DRIEZIEK",
+    "to_location": "JOHANNESBURG",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FINETOWN/ MAJAZANA",
+    "to_location": "JOHANNESBURG",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAJAZANA/ THULAMTWANA",
+    "to_location": "GRASMERE STATION",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAJAZANA",
+    "to_location": "LENASIA",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "THOKOZA",
+    "to_location": "MALL OF THE SOUTH",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VLAKFONTEIN",
+    "to_location": "DRIEZIEK",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VLAKFONTEIN",
+    "to_location": "EXT. 2 RANK",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAJAZANA",
+    "to_location": "EXT. 2 RANK",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JACKSON",
+    "to_location": "MAJAZANA",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JACKSON",
+    "to_location": "DRIEZIEK",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JACKSON",
+    "to_location": "EXT. 10",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LENASIA",
+    "to_location": "DRIEZIEK/NANDOS",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MALL OF THE SOUTH",
+    "to_location": "EXT. 2",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MALL OF THE SOUTH",
+    "to_location": "MAJAZANA/FINETOWN",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT. 10",
+    "to_location": "VEREENIGING",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT. 10",
+    "to_location": "MEYERTON",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT. 10",
+    "to_location": "VANDERBIJL PARK/ VAAL MALL/THREE RIVER",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT. 10",
+    "to_location": "HENLY-ON-KLIP",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MPHO & MPHONYANA",
+    "to_location": "VEREENIGING",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FINETOWN",
+    "to_location": "WALKERVILLE",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FINETOWN/ MAJAZANE",
+    "to_location": "BARAGWANATH",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FIRE STATION",
+    "to_location": "FINETOWN",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "TOWN",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "SOUTHGATE",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "AEROTON",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ORLANDO",
+    "to_location": "TOWN",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DIEPKLOOF EXT, NASREC, SOUTHGATE",
+    "to_location": "TOWN",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "NASREC",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "MOTSWALEDI",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "FREEDOM PARK",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DEVLAND",
+    "to_location": "TOWN",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "ROBERTSHAM",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "SUNCITY",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "NATURENA",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "PALM SPRINGS",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "DRIEZIEK",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BARA",
+    "to_location": "EVATON",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DIEPKLOOF",
+    "to_location": "JHB",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZONE 14",
+    "to_location": "JOHANNESBURG",
+    "price": "46.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZONE 7",
+    "to_location": "JOHANNESBURG",
+    "price": "46.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VEREENIGING",
+    "to_location": "JOHANNESBURG",
+    "price": "60.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MOVHANGO",
+    "to_location": "JOHANNESBURG",
+    "price": "60.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VEREENIGING",
+    "to_location": "THOKOZA",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VEREENIGING",
+    "to_location": "GERMISTON",
+    "price": "55.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "VEREENIGING",
+    "to_location": "MEYERTON",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PALMSPRINGS",
+    "to_location": "VEREENIGING",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PALMSPRINGS",
+    "to_location": "THREE RIVERS",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TIMALEBONE",
+    "to_location": "VEREENIGING",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BEVERLYHILLS",
+    "to_location": "JOHANNESBURG",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BEVERLYHILLS",
+    "to_location": "LENZ",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BEVERLYHILLS",
+    "to_location": "BARA",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PALMSPRINGS",
+    "to_location": "BARA",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RESIDENSIA",
+    "to_location": "LENZ",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MALL",
+    "to_location": "MALL",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MARIKANA",
+    "to_location": "BEVERLYHILLS",
+    "price": "14.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RESIDENSIA",
+    "to_location": "EVATON MALL",
+    "price": "12.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MUTHI",
+    "to_location": "HOUSE",
+    "price": "12.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RESIDENSIA",
+    "to_location": "PALMSPRING",
+    "price": "14.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EVATON NORTH",
+    "to_location": "SKHOSANA",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EVATON NORTH",
+    "to_location": "LENGWELENG",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PALMSPRING",
+    "to_location": "TSHEPONG",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PALMSPRINGS",
+    "to_location": "ROSHNEE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MOKHELELE",
+    "to_location": "ROSHNEE",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BOITUMELO",
+    "to_location": "ROSHNEE",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EVATON",
+    "to_location": "ROSHNEE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETENSIDE",
+    "to_location": "ROSHNEE",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TIMALEBONE",
+    "to_location": "PALMSPRINGS",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PALMSPRINGS",
+    "to_location": "TSHEPONG",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SAVANA CITY",
+    "to_location": "JOHANNESBURG",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TIMALEBONE DE DEUR",
+    "to_location": "JOHANNESBURG",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROODEPOORT",
+    "to_location": "RANDFONTEIN",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROODEPOORT",
+    "to_location": "KRUGERSDORP",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROODEPOORT",
+    "to_location": "MUNSENVILLE",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROODEPOORT",
+    "to_location": "KEYWEST",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WESTGATE",
+    "to_location": "RANDFONTEIN",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WESTGATE",
+    "to_location": "KRUGERSDORP",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KHWEZI",
+    "to_location": "MAIN REEF",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KHWEZI",
+    "to_location": "CLEARWATER",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KHWEZI",
+    "to_location": "FLORIDA",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KHWEZI",
+    "to_location": "WESTGATE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "ROODEPOORT",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "MAIN REEF",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "WESTGATE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "FLORIDA",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "BOSMONT",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "CLEARWATER",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "ROODEPOORT",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "WESTGATE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "MAIN REEF",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "FLORIDA",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "CLEARWATER",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "HYPERAMA",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "MAIN REEF",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "JOBURG",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "MAIN REEF",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SNAKEPARK",
+    "to_location": "JOBURG",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SNAKEPARK",
+    "to_location": "MAIN REEF",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "GREENVILLAGE",
+    "to_location": "JOBURG",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SLOVO",
+    "to_location": "JOBURG",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 4",
+    "to_location": "JOBURG",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FLEURHOF",
+    "to_location": "JOBURG",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSHEPISONG",
+    "to_location": "JOBURG",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FLEURHOF",
+    "to_location": "MAIN REEF",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSHEPISONG",
+    "to_location": "MAIN REEF",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAGISO",
+    "to_location": "JOHANNESBURG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JOHANNESBURG",
+    "to_location": "WESTGATE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAGISO",
+    "to_location": "LOCAL(EXT 12)",
+    "price": "13.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAGISO",
+    "to_location": "LERATONG",
+    "price": "13.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAGISO (EXT 12)",
+    "to_location": "LERATONG",
+    "price": "13.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAGISO",
+    "to_location": "WESTGATE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 12",
+    "to_location": "WESTGATE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAGISO",
+    "to_location": "KRUGERSDORP",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAGISO",
+    "to_location": "LUIPAARDSVLEI",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAGISO",
+    "to_location": "CRADLESTONE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LERATONG",
+    "to_location": "KAGISO 1",
+    "price": "13.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LERATONG",
+    "to_location": "EXT 12",
+    "price": "13.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LERATONG",
+    "to_location": "WITPOORTJIE",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LERATONG",
+    "to_location": "CRADLESTONE",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LERATONG",
+    "to_location": "EXT 4",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LERATONG",
+    "to_location": "LUIPAARDVLEI",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LERATONG",
+    "to_location": "MONUMENT",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LERATONG",
+    "to_location": "KEYWEST",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LERATONG",
+    "to_location": "KRUGERSDORP",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LERATONG",
+    "to_location": "MUNSIENVILLE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAALFONTEIN & EXT. 45",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SWAZI INN",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KANANA 4/5 & MAYIBUYE",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KLIPFONTEIN",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WINNIE MANDELA & TSWELOPELE",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PHUMULANI MALL",
+    "to_location": "PRETORIA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "MENLYN",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "MENLYN",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAALFONTEIN & EXT. 45",
+    "to_location": "MENLYN",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SWAZI INN",
+    "to_location": "MENLYN",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "CENTURION MALL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "CENTURION MALL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAALFONTEIN & EXT. 45",
+    "to_location": "CENTURION MALL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SWAZI INN",
+    "to_location": "CENTURION MALL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KANANA 4/5 & MAYIBUYE",
+    "to_location": "CENTURION MALL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "SHOPRITE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 3",
+    "to_location": "SHOPRITE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KAALFONTEIN & EXT. 45",
+    "to_location": "SHOPRITE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SWAZI INN",
+    "to_location": "SHOPRITE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KANANA 4/5 & MAYIBUYE",
+    "to_location": "SHOPRITE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WINNIE MANDELA & TSWELOPELE",
+    "to_location": "SHOPRITE & MIDSTREAM",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "IVORY PARK 2",
+    "to_location": "CO-OPERATE PARK",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WINNIE MANDELA",
+    "to_location": "CENTURION MALL LAKE",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PHUMULANI MALL",
+    "to_location": "ELARDUS PARK",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PHUMULANI MALL",
+    "to_location": "IRENE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BP",
+    "to_location": "TEMBISA",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CENTURION",
+    "to_location": "TEMBISA",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CODESA DUTY",
+    "to_location": "TEMBISA",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CENTURION",
+    "to_location": "SANGWENI",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MENLYN",
+    "to_location": "TEMBISA",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MENLYN",
+    "to_location": "SANGWENI",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TEMBISA",
+    "to_location": "MAMELODI",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "PRETORIA",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TEMBISA",
+    "to_location": "CO-OPERATE PARK",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "CO-OPERATE PARK",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BUSHBUCKRIDGE",
+    "to_location": "TEMBISA",
+    "price": "380.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROODEKOP X13",
+    "to_location": "LEONDALE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "MALL OF AFRICA",
+    "price": "36.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZONE 1,2,3,4,5",
+    "to_location": "ELSPARK",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZONE 6 & 7",
+    "to_location": "ELSPARK",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SUNRISE",
+    "to_location": "ELSPARK",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PALMRIDGE",
+    "to_location": "ELSPARK",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZONKIZIZWE",
+    "to_location": "ELSPARK",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROODEKOP X31",
+    "to_location": "ELSPARK",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI / SONWABO",
+    "to_location": "ELSPARK",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EASTGLEN",
+    "to_location": "ELSPARK",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZONE 1,2,3,4,5",
+    "to_location": "GERMISTON / KUTALO",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZONE 6,7,8,9",
+    "to_location": "GERMISTON / ELSBURG",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SUNRISE",
+    "to_location": "GERMISTON / KUTALO",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PALMRIDGE",
+    "to_location": "GERMISTON / ELSBURG",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZONKIZIZWE",
+    "to_location": "GERMISTON / KUTALO",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SPRUITVIEW / LEON",
+    "to_location": "GERMISTON",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI / SONWABO",
+    "to_location": "GERMISTON",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MANDELA",
+    "to_location": "ALBERTON",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROODEKOP",
+    "to_location": "GERMISTON",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RONDEBULT",
+    "to_location": "GERMISTON",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "CHRIS HANI MALL",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROODEKOP",
+    "to_location": "JOHANNESBURG",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LEONDALE",
+    "to_location": "JOHANNESBURG",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PHUMULA",
+    "to_location": "JOHANNESBURG",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RONDEBULT",
+    "to_location": "JOHANNESBURG",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BUHLE PARK",
+    "to_location": "JOHANNESBURG",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SUN RISE / MOLELEKI",
+    "to_location": "JOHANNESBURG",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SONTONGA MALL",
+    "to_location": "JOHANNESBURG",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "GOSFORTH PARK",
+    "price": "32.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SUNRISE",
+    "to_location": "KEMPTON PARK",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CHRIS HANI",
+    "to_location": "ZONE 5",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG SOUTH",
+    "to_location": "BARA",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "SAM NTULI",
+    "price": "14.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "THELLE MOGOERANE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "SKY CITY",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "EYE OF AFRICA",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "TSHEPONG",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "HEIDELBERG",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "FOURWAYS",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PALMRIDGE",
+    "to_location": "JOHANNESBURG",
+    "price": "12.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SPRUITVIEW",
+    "to_location": "CHRIS HANI",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "ALEXANDRA",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "DUNSWART",
+    "price": "12.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "PHUMULA",
+    "to_location": "BOKSBURG",
+    "price": "13.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RONDEBULT",
+    "to_location": "CHRIS HANI MALL",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "DAVEYTON",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "SANDTON",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "LINBRO PARK",
+    "price": "13.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MANDELA",
+    "to_location": "CHRIS HANI",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "GERMISTON",
+    "to_location": "PRIMROSE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MANDELA",
+    "to_location": "RONDEBULT",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RONDEBULT",
+    "to_location": "WADEVILLE",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "JOHANNESBURG",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "DUNSWART",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "SOUTH CREST",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "MAYBERRY",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MANDELA",
+    "to_location": "THELLE MOGOERANE HSP",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "BRACKENHURST",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "VEREENIGING",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SUNRISE",
+    "to_location": "ALBERTON",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MANDELA",
+    "to_location": "ALBERTON",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "DELSIDE",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "KLIPRIVIER",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "PALMRIDGE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "SONTONGA",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BUHLE PARK",
+    "to_location": "ALBERTON",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RONDEBULT / PHUMULA",
+    "to_location": "ALBERTON",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "CENTURION",
+    "price": "50.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "CARLTONVILLE",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "RANDBURG",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "MIDRAND",
+    "price": "36.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SUNRISE",
+    "to_location": "EDENVALE",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SUNRISE",
+    "to_location": "EAST RAND MALL",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CHICKEN DUST",
+    "to_location": "ALRODE",
+    "price": "14.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RONDEBULT",
+    "to_location": "MEYERSDAL",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "ALRODE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "NQUTU",
+    "price": "330.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "LADYSMITH",
+    "price": "210.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "MAHIABABINI",
+    "price": "330.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "MATATIELE",
+    "price": "400.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "PORT SHEPSTONE",
+    "price": "350.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "BLOEMFONTEIN",
+    "price": "300.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "GREYTOWN / JADD",
+    "price": "300.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "UCABANE / MANZINI",
+    "price": "300.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "VRYHEID",
+    "price": "310.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "ERMELO",
+    "price": "250.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "DUNDEE",
+    "price": "300.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "DUNSWART",
+    "price": "310.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "WAKKERSTROOM",
+    "price": "250.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "FICKSBURG",
+    "price": "350.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "MASANDAWANA",
+    "price": "350.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG",
+    "to_location": "MASERU",
+    "price": "350.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "SANDTON",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "LEONDALE",
+    "to_location": "ALBERTON",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WADEVILLE",
+    "to_location": "ALEX",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WADEVILLE",
+    "to_location": "JOHANNESBURG",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CHICKEN DUST",
+    "to_location": "ALBERTON",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SUNRISE",
+    "to_location": "APEX",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ZONE 1",
+    "to_location": "THELLE MOGOERANE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSIETSI",
+    "to_location": "APEX",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WADEVILLE",
+    "to_location": "BARA",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KATLEHONG SOUTH",
+    "to_location": "BARA",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "TOWN",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "TOWN/PTA. (SCHOLAR)",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI LOCAL",
+    "to_location": "(SCHOLAR)",
+    "price": "13.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NELLMAPIUS",
+    "to_location": "TOWN",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "KOLONNADE",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "KOLONNADE (SCHOLAR)",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "EASTERN SUBURBS",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "EASTERN SUBURBS (SCHOLAR)",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "CASTLEGATE/ GROENKLOOF",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "HAMMANSKRAAL",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "GA-RANKUWA",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "KWA-MHLANGA",
+    "price": "50.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "MOLOTO",
+    "price": "50.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "PHOLA MALL",
+    "price": "50.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "MOTETI",
+    "price": "80.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "KWAGGA-FONTEIN",
+    "price": "75.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "E-NKANGALA",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "DENNILTON",
+    "price": "85.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "MOTETI/MACHIDING",
+    "price": "75.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "CENTURION",
+    "price": "33.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "CULLINAN",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "MIDRAND",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "KEMPTON PARK",
+    "price": "38.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "TEMBISA",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MENLYN",
+    "to_location": "TEMBISA",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "GA-MPHAHLELE",
+    "price": "300.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "LEPHALALE",
+    "price": "300.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "SEKORORO",
+    "price": "410.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "MATOKS",
+    "price": "380.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "LESOTHO",
+    "price": "420.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "WEPENAR",
+    "price": "500.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "MAMELODI",
+    "to_location": "GA-MASEMOLA",
+    "price": "240.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DENNEBOOM",
+    "to_location": "POLOKWANE",
+    "price": "310.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DENNEBOOM",
+    "to_location": "GIYANE",
+    "price": "420.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DENNEBOOM",
+    "to_location": "MALAMULELA",
+    "price": "440.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DENNEBOOM",
+    "to_location": "ELIM",
+    "price": "400.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DENNEBOOM",
+    "to_location": "VENDA",
+    "price": "400.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DENNEBOOM",
+    "to_location": "BOLOBEDU",
+    "price": "380.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DENNEBOOM",
+    "to_location": "BOCHUM",
+    "price": "350.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DENNEBOOM",
+    "to_location": "THOHOYANDOU",
+    "price": "440.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DENNEBOOM",
+    "to_location": "SIBASA",
+    "price": "440.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DENNEBOOM",
+    "to_location": "BUSHBURGRIDGE",
+    "price": "410.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DENNEBOOM",
+    "to_location": "EASTERN CAPE",
+    "price": "800.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EASTLYNN",
+    "to_location": "POLOKWANE",
+    "price": "310.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "MUNYAKA",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE",
+    "to_location": "MIDRAND",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KLIPFONTEIN",
+    "to_location": "MIDRAND",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "MALL OF AFRICA",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "COPERATE PARK",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "VODA WORLD",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "KYALAMI",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "KEMPTON PARK",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "CENTURION",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "ALEXANDRA",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "SANDTON",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "LIMBRO PARK",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "SUNNINGHILL",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "ROSEBANK",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "FOURWAYS",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "JOHANNESBURG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RABIE RIDGE / KLIPFONTEIN",
+    "to_location": "RANDBURG",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "AUCKLAND PARK / CAMPUS SQUARE / RAU / MELVILLE",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BRAAMFONTEIN",
+    "to_location": "BREE",
+    "price": "8.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "HONEYDEW",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "SOPHIATOWN / GREYMONT / FLORIDA GLEN",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "NORTHGATE",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "RADIOKOP",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "SWARTKOP",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "FOURWAYS",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "COSMO CITY / DIEPSLOOT",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "SLOANS",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "FAIRLANDS",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "RANDBURG / WATERFRONT",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "CRAIGHALL / PARKHURST / ZOO LAKE",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "STRIJDOM PARK",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "BOSKOP",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "KY-SAND",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "WINDSOR EAST",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CRAIGHALL / PARKHURST / PRKTOWN / ZOO LAKE",
+    "to_location": "RANDBURG",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NORTHCLIFF",
+    "to_location": "FAIRLANDS",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NORTHCLIFF",
+    "to_location": "HONEYDEW",
+    "price": "17.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HONEYDEW",
+    "to_location": "FAIRLANDS",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HONEYDEW",
+    "to_location": "WELTEVREDEN PARK",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HONEYDEW",
+    "to_location": "ST / JOE SLOVO",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HONEYDEW",
+    "to_location": "MALTA",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HONEYDEW",
+    "to_location": "MAKGEREKGERE",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HONEYDEW",
+    "to_location": "SWARTKOP",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HONEYDEW",
+    "to_location": "LIFESTYLE / RANDPARKRIDGE",
+    "price": "10.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CROESUS",
+    "to_location": "NORTHGATE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CROESUS",
+    "to_location": "HONEYDEW / FAIRLANDS",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CROESUS",
+    "to_location": "STRIJDOM PARK",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CROESUS",
+    "to_location": "RANDBURG",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CROESUS",
+    "to_location": "BOSKOP",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "NEWCLARE",
+    "to_location": "RANDBURG",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "JUMBO",
+    "to_location": "NORTHCLIFF CORNER",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "CAMPUS SQUARE",
+    "to_location": "LAANGLAGTE",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HIGHGATE / NEWCLARE",
+    "to_location": "RANDBURG",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE RANK",
+    "to_location": "SWAARTKOP",
+    "price": "32.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "HONEYDEW",
+    "to_location": "LAZERPARK",
+    "price": "7.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "RANDPARK RIDGE",
+    "to_location": "HONEYDEW",
+    "price": "10.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "CAR TRACKER",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "RANDBURG VIA JAN SMUTS",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREE",
+    "to_location": "RANDBURG VIA EMMARENTIA",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KWAMASHU",
+    "to_location": "VERULAM",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KWAMASHU",
+    "to_location": "GATEWAY",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KWAMASHU",
+    "to_location": "CORNUBIA",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KWAMASHU",
+    "to_location": "DURBAN",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KWAMASHU",
+    "to_location": "PINETOWN",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KWAMASHU",
+    "to_location": "PARLOCK",
+    "price": "14.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KWAMASHU",
+    "to_location": "EFFINGHAM",
+    "price": "14.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KWAMASHU",
+    "to_location": "SOUTHGATE",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KWAMASHU",
+    "to_location": "MIDWAY",
+    "price": "12.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KWAMASHU",
+    "to_location": "LOCAL",
+    "price": "11.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "DAVEYTON (LOCAL)",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "ZENZELE",
+    "price": "15.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "ETWATWA",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "BARCELONA",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "SPRINGS",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "GERMISTON",
+    "price": "32.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "DUNSWART",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "BENONI",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "FAREMEAR",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "RIETPAN",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "ATLAS",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "NORTHMEAD",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "CRYSTAL PARK",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "APEX",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "BRAKPAN",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "EASTGATE",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "JOHANNESBURG",
+    "price": "37.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "BARAKWANATH",
+    "price": "47.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "ALEXANDA",
+    "price": "47.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "KWA-THEMBA",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "TSAKANE",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "CARNIVAL CITY",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "RYNBURG",
+    "price": "50.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "SANDTON",
+    "price": "47.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DAVEYTON",
+    "to_location": "KATLEHONG",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "ETWATWA (LOCAL)",
+    "price": "12.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "DAVEYTON",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "SPRINGS",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "BENONI",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "GERMISTON",
+    "price": "32.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "DUNSWART",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "ATLAS",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "CRYSTAL PARK",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "RYNFIELD",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "NORTHMEAD",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "FARRAMERE",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "RIETPAN",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "ISANDO",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "EDENVALE",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "ELANDSFONTEIN",
+    "price": "30.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "CARNIVAL MALL",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "EASTRAND MALL",
+    "price": "29.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "EASTGATE MALL",
+    "price": "37.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "JOHANNESBURG",
+    "price": "37.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "BARAGWANATH",
+    "price": "40.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ETWATWA",
+    "to_location": "BRAKPAN",
+    "price": "31.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROODEPOORT",
+    "to_location": "RANDFONTEIN",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROODEPOORT",
+    "to_location": "KRUGERSDORP",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROODEPOORT",
+    "to_location": "MUNSENVILLE",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "ROODEPOORT",
+    "to_location": "KEYWEST",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WESTGATE",
+    "to_location": "RANDFONTEIN",
+    "price": "23.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "WESTGATE",
+    "to_location": "KRUGERSDORP",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KHWEZI",
+    "to_location": "MAIN REEF",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KHWEZI",
+    "to_location": "CLEARWATER",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KHWEZI",
+    "to_location": "FLORIDA",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KHWEZI",
+    "to_location": "WESTGATE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "ROODEPOORT",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "MAIN REEF",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "WESTGATE",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "FLORIDA",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "BOSMONT",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "CLEARWATER",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "ROODEPOORT",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "WESTGATE",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "MAIN REEF",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "FLORIDA",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "CLEARWATER",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "HYPERAMA",
+    "price": "24.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "OLD DOBSONVILLE",
+    "to_location": "MAIN REEF",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "JOBURG",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 3 T JUNCTION",
+    "to_location": "MAIN REEF",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SNAKEPARK",
+    "to_location": "JOBURG",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SNAKEPARK",
+    "to_location": "MAIN REEF",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "GREENVILLAGE",
+    "to_location": "JOBURG",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SLOVO",
+    "to_location": "JOBURG",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "EXT 4",
+    "to_location": "JOBURG",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FLEURHOF",
+    "to_location": "JOBURG",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSHEPISONG",
+    "to_location": "JOBURG",
+    "price": "26.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "FLEURHOF",
+    "to_location": "MAIN REEF",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TSHEPISONG",
+    "to_location": "MAIN REEF",
+    "price": "21.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "SCORE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "MAYIBUYE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "WINNIE",
+    "price": "22.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "SPRUIT",
+    "price": "28.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "TSIETSI",
+    "price": "36.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "DUNSWART",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "BENONI",
+    "price": "19.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "BREDEL, ATLAS & BRENDWOOD BARKS",
+    "price": "18.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "POMONA",
+    "to_location": "SPRUIT",
+    "price": "35.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "GLENMARAIS",
+    "price": "16.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "BIRCHLEIGH",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "SPARTAN",
+    "price": "14.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "R21 (FREEWAY)",
+    "to_location": "TEMBISA",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TAKE A LOT",
+    "to_location": "TEMBISA",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "BREDEL",
+    "to_location": "TEMBISA",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "TFG",
+    "to_location": "TEMBISA",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "DSV",
+    "to_location": "TEMBISA",
+    "price": "20.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "BENONI",
+    "price": "25.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "SANGWENI",
+    "to_location": "DUNSWART",
+    "price": "27.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "POLOKWANE",
+    "price": "310.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "WITBANK",
+    "price": "160.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "MHLANGA",
+    "price": "120.00",
+    "distance_km": 0
+  },
+  {
+    "from_location": "KEMPTON PARK",
+    "to_location": "JANE FURSE",
+    "price": "280.00",
+    "distance_km": 0
+  }
+]
