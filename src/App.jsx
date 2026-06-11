@@ -764,7 +764,10 @@ export default function App() {
     setSearched(true)
     const f = origin.toLowerCase().trim()
     const t = destination.toLowerCase().trim()
-    setSearchResults(localRoutes.filter(r => r.from_location.toLowerCase().includes(f) && r.to_location.toLowerCase().includes(t)))
+    setSearchResults(localRoutes.filter(r => 
+  (r.from_location.toLowerCase().includes(f) && r.to_location.toLowerCase().includes(t)) ||
+  (r.from_location.toLowerCase().includes(t) && r.to_location.toLowerCase().includes(f))
+))
   }
 
   function swapLocations() {
